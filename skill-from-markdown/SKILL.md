@@ -66,6 +66,11 @@ new-skill-name/
 - Ensure SKILL.md is valid markdown with correct frontmatter.
 - Ensure the description clearly signals when the skill should activate.
 
+9. **Generate a README.md**
+- Create a README.md in the skill's root folder for GitHub documentation.
+- Include: skill name, brief description, what it does, when to use it, installation instructions, and license.
+- Keep it concise and user-friendly for developers browsing the repository.
+
 ## Examples of use
 
 - “Create a skill from this README.md.”
